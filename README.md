@@ -1,2 +1,1 @@
-# Anggi
-project
+# About my first project in GitHub
